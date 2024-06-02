@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://d3ac3cf21j48p"]
+
+[ext_resource type="Script" path="res://scripts/NextLevel.gd" id="1_7vcav"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_j7b7u"]
+size = Vector2(10, 10)
+
+[node name="NextLevel" type="Area2D"]
+collision_layer = 2
+collision_mask = 2
+script = ExtResource("1_7vcav")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+light_mask = 2
+position = Vector2(-8, -6)
+shape = SubResource("RectangleShape2D_j7b7u")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
