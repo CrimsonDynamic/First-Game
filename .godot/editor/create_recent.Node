@@ -1,0 +1,14 @@
+CharacterBody2D
+RayCast2D
+Label
+MarginContainer
+Control
+CanvasLayer
+Panel
+AnimationPlayer
+AudioStreamPlayer2D
+Node
+CollisionShape2D
+AnimatedSprite2D
+Timer
+Area2D

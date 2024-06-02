@@ -1,0 +1,11 @@
+res://scenes/game.tscn::6a84a1dc60a6c9fdd60a267e3a2699c7::1717280466::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/player.tscn::f2b3176315043bd052d40b39506b6b9d::1717280466::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/platform.tscn::ce75f4ee4ed75034b8d216ef328ce4de::1717280466::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
+res://scenes/coin.tscn::becd9f692a6fb1d754021e89450ef4d8::1717280466::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/killzone.tscn::c775c2687ee4042cfbd94b266e62b8ce::1717280466::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
+res://scenes/music.tscn::94038b08f5b099e4d2102301a2611463::1717265008::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
+res://scenes/slime.tscn::891317cc841a91024e01b90f28128cfc::1717280466::res://.godot/exported/133200997/export-cfec31ac835903e5b6c8af87b017aecf-slime.scn
+res://default_bus_layout.tres::0b85e2d3c450a9a1e8e4ec15230011ba::1717264990::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://addons/discord-rpc-gd/nodes/Debug.tscn::2f55f1c3f5d835f31fa4437032cd4dad::1717277748::res://.godot/exported/133200997/export-d928f068a1bafec7d86411894a66c6a8-Debug.scn
+res://addons/discord-rpc-gd/restart_window.tscn::8395450f311dee441578bd454ccea04b::1717277747::res://.godot/exported/133200997/export-a83ca32fd2b1f993c75747100575ce7a-restart_window.scn
+res://scenes/ui.tscn::b1b4fad3c28a063d6d6a0455ce8a6427::1717280466::res://.godot/exported/133200997/export-9211dc52ac9df169ba4fe77cbc1dc833-ui.scn
